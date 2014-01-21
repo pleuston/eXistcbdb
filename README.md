@@ -1,4 +1,4 @@
 eXistcbdb
 =========
 
-Person repository from cbdb for eXist-db includes 10 entries. MS-Access files go into accessfiles. BIOG_MAIN contains 10 sample persons. 
+existDB app for a person repository from cbdb. Includes 10 person files in BIOG_MAIN. MS-Access files go into accessfiles.
