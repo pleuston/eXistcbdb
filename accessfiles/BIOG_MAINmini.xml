@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="BIOG_MAINaccessdel.xsd" generated="2013-11-21T16:11:58">
+    <BIOG_MAIN>
+        <tts_sysno>1</tts_sysno>
+        <c_personid>1</c_personid>
+        <c_name>An Dun</c_name>
+        <c_name_chn>安惇</c_name_chn>
+        <c_index_year>1101</c_index_year>
+        <c_female>0</c_female>
+        <c_birthyear>1042</c_birthyear>
+        <c_by_nh_code>523</c_by_nh_code>
+        <c_by_nh_year>2</c_by_nh_year>
+        <c_deathyear>1104</c_deathyear>
+        <c_dy_nh_code>534</c_dy_nh_code>
+        <c_dy_nh_year>3</c_dy_nh_year>
+        <c_death_age>63</c_death_age>
+        <c_surname>An</c_surname>
+        <c_surname_chn>安</c_surname_chn>
+        <c_mingzi>Dun</c_mingzi>
+        <c_mingzi_chn>惇</c_mingzi_chn>
+        <c_dy>15</c_dy>
+        <c_choronym_code>0</c_choronym_code>
+        <c_source>7596</c_source>
+        <c_pages>3016</c_pages>
+        <c_notes>An(1) Dun [1] Fang's [2] father. XCB, 362.14b, SS; 471.21a, 22a. DDSL, 97.6b. CBD,
+            1, 548-9.</c_notes>
+        <c_by_intercalary>0</c_by_intercalary>
+        <c_dy_intercalary>0</c_dy_intercalary>
+        <c_created_by>TTS</c_created_by>
+        <c_created_date>20070312</c_created_date>
+        <c_modified_by>BDNWH</c_modified_by>
+        <c_modified_date>20081018</c_modified_date>
+        <c_self_bio>0</c_self_bio>
+    </BIOG_MAIN>
+    <BIOG_MAIN>
+        <tts_sysno>2</tts_sysno>
+        <c_personid>2</c_personid>
+        <c_name>An Fang</c_name>
+        <c_name_chn>安邡</c_name_chn>
+        <c_index_year>1136</c_index_year>
+        <c_female>0</c_female>
+        <c_birthyear>0</c_birthyear>
+        <c_deathyear>0</c_deathyear>
+        <c_death_age>0</c_death_age>
+        <c_surname>An</c_surname>
+        <c_surname_chn>安</c_surname_chn>
+        <c_mingzi>Fang</c_mingzi>
+        <c_mingzi_chn>邡</c_mingzi_chn>
+        <c_dy>15</c_dy>
+        <c_choronym_code>0</c_choronym_code>
+        <c_notes>An(1) Fang [2] Dun's [1] son. XNYL, 94.9a, 104.12a.[待考。《宋史·安惇傳》云，惇二子郊、邦。]</c_notes>
+        <c_by_intercalary>0</c_by_intercalary>
+        <c_dy_intercalary>0</c_dy_intercalary>
+        <c_created_by>TTS</c_created_by>
+        <c_created_date>20070312</c_created_date>
+        <c_self_bio>0</c_self_bio>
+    </BIOG_MAIN>
+</dataroot>

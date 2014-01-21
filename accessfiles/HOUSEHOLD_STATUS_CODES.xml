@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="HOUSEHOLD_STATUS_CODES.xsd" generated="2013-11-25T16:40:31">
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>0</c_household_status_code>
+        <c_household_status_desc>Unknown</c_household_status_desc>
+        <c_household_status_desc_chn>未詳</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>1</c_household_status_code>
+        <c_household_status_desc>Civilian household</c_household_status_desc>
+        <c_household_status_desc_chn>民戶</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>2</c_household_status_code>
+        <c_household_status_desc>Military household</c_household_status_desc>
+        <c_household_status_desc_chn>軍戶</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>3</c_household_status_code>
+        <c_household_status_desc>Artisan household</c_household_status_desc>
+        <c_household_status_desc_chn>匠戶</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>4</c_household_status_code>
+        <c_household_status_desc>Official household</c_household_status_desc>
+        <c_household_status_desc_chn>官戶</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>5</c_household_status_code>
+        <c_household_status_desc>Cook household</c_household_status_desc>
+        <c_household_status_desc_chn>竈戶</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>6</c_household_status_code>
+        <c_household_status_desc>Literary household</c_household_status_desc>
+        <c_household_status_desc_chn>儒籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>7</c_household_status_code>
+        <c_household_status_desc>Lishi household</c_household_status_desc>
+        <c_household_status_desc_chn>力士籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>8</c_household_status_code>
+        <c_household_status_desc>Yongshi household</c_household_status_desc>
+        <c_household_status_desc_chn>勇士籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>9</c_household_status_code>
+        <c_household_status_desc>Prophet household</c_household_status_desc>
+        <c_household_status_desc_chn>占籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>10</c_household_status_code>
+        <c_household_status_desc>Sijiaowei household</c_household_status_desc>
+        <c_household_status_desc_chn>司校尉籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>11</c_household_status_code>
+        <c_household_status_desc>Si household</c_household_status_desc>
+        <c_household_status_desc_chn>司籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>12</c_household_status_code>
+        <c_household_status_desc>Officer household</c_household_status_desc>
+        <c_household_status_desc_chn>官藉</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>13</c_household_status_code>
+        <c_household_status_desc>Wealthy household</c_household_status_desc>
+        <c_household_status_desc_chn>富戶籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>14</c_household_status_code>
+        <c_household_status_desc>Archer household</c_household_status_desc>
+        <c_household_status_desc_chn>弓兵籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>15</c_household_status_code>
+        <c_household_status_desc>Suo household</c_household_status_desc>
+        <c_household_status_desc_chn>所籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>16</c_household_status_code>
+        <c_household_status_desc>Qi household</c_household_status_desc>
+        <c_household_status_desc_chn>旗籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>17</c_household_status_code>
+        <c_household_status_desc>Jiaowei household</c_household_status_desc>
+        <c_household_status_desc_chn>校尉籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>18</c_household_status_code>
+        <c_household_status_desc>Jiao household</c_household_status_desc>
+        <c_household_status_desc_chn>校籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>19</c_household_status_code>
+        <c_household_status_desc>Zao household</c_household_status_desc>
+        <c_household_status_desc_chn>灶籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>20</c_household_status_code>
+        <c_household_status_desc>Shengyuan household</c_household_status_desc>
+        <c_household_status_desc_chn>生員籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>21</c_household_status_code>
+        <c_household_status_desc>Jian household</c_household_status_desc>
+        <c_household_status_desc_chn>監籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>23</c_household_status_code>
+        <c_household_status_desc>Zhan household</c_household_status_desc>
+        <c_household_status_desc_chn>站籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>24</c_household_status_code>
+        <c_household_status_desc>Wei household</c_household_status_desc>
+        <c_household_status_desc_chn>衛籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>26</c_household_status_code>
+        <c_household_status_desc>Doctor household</c_household_status_desc>
+        <c_household_status_desc_chn>醫籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>27</c_household_status_code>
+        <c_household_status_desc>Zhenfusi household</c_household_status_desc>
+        <c_household_status_desc_chn>鎮撫司籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>28</c_household_status_code>
+        <c_household_status_desc>Yinyang household</c_household_status_desc>
+        <c_household_status_desc_chn>陰陽籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>29</c_household_status_code>
+        <c_household_status_desc>Machuan household</c_household_status_desc>
+        <c_household_status_desc_chn>馬船籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+    <HOUSEHOLD_STATUS_CODES>
+        <c_household_status_code>30</c_household_status_code>
+        <c_household_status_desc>Salt household</c_household_status_desc>
+        <c_household_status_desc_chn>鹽籍</c_household_status_desc_chn>
+    </HOUSEHOLD_STATUS_CODES>
+</dataroot>

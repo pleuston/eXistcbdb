@@ -1,0 +1,22 @@
+xquery version "1.0";
+
+(:I keep getting: "[Xerces] content is not allowed in prolog" error in oXygen, it runs fine in eXide:)
+let $input-document := '/db/apps/cbdbtest/accessfiles/BIOG_MAINmini.xml'
+let $collection := '/db/apps/cbdbtest/BIOG_MAIN'
+ 
+(: the login used must have write access to the collection :)
+let $output-collection := xmldb:login($collection, 'admin', 'mCpw789')
+ 
+return
+<SplitResults>{
+     for $BIOGdata in doc($input-document)/dataroot/BIOG_MAIN
+        (: For brevity we will create a file name with the term name.  Change this to be an ID function if you want :)
+        let $CBDBID := $BIOGdata/c_personid/text()
+        let $documentname := concat('CBDBID', $CBDBID, '.xml')
+        let $store-return := xmldb:store($collection, $documentname, $BIOGdata)
+     return
+        <store-result>
+           <store>{$BIOGdata}</store>
+           <documentname>{$documentname}</documentname>
+        </store-result>
+}</SplitResults>

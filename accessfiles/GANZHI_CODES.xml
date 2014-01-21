@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="GANZHI_CODES.xsd" generated="2013-11-25T16:40:26">
+    <GANZHI_CODES>
+        <c_ganzhi_code>1</c_ganzhi_code>
+        <c_ganzhi_chn>甲子</c_ganzhi_chn>
+        <c_ganzhi_py>jia zi</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>2</c_ganzhi_code>
+        <c_ganzhi_chn>乙丑</c_ganzhi_chn>
+        <c_ganzhi_py>yi chou</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>3</c_ganzhi_code>
+        <c_ganzhi_chn>丙寅</c_ganzhi_chn>
+        <c_ganzhi_py>bing yin</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>4</c_ganzhi_code>
+        <c_ganzhi_chn>丁卯</c_ganzhi_chn>
+        <c_ganzhi_py>ding mao</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>5</c_ganzhi_code>
+        <c_ganzhi_chn>戊辰</c_ganzhi_chn>
+        <c_ganzhi_py>wu chen</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>6</c_ganzhi_code>
+        <c_ganzhi_chn>己巳</c_ganzhi_chn>
+        <c_ganzhi_py>ji si</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>7</c_ganzhi_code>
+        <c_ganzhi_chn>庚午</c_ganzhi_chn>
+        <c_ganzhi_py>geng wu</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>8</c_ganzhi_code>
+        <c_ganzhi_chn>辛未</c_ganzhi_chn>
+        <c_ganzhi_py>xin wei</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>9</c_ganzhi_code>
+        <c_ganzhi_chn>壬申</c_ganzhi_chn>
+        <c_ganzhi_py>ren shen</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>10</c_ganzhi_code>
+        <c_ganzhi_chn>癸酉</c_ganzhi_chn>
+        <c_ganzhi_py>gui you</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>11</c_ganzhi_code>
+        <c_ganzhi_chn>甲戌</c_ganzhi_chn>
+        <c_ganzhi_py>jia xu</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>12</c_ganzhi_code>
+        <c_ganzhi_chn>乙亥</c_ganzhi_chn>
+        <c_ganzhi_py>yi hai</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>13</c_ganzhi_code>
+        <c_ganzhi_chn>丙子</c_ganzhi_chn>
+        <c_ganzhi_py>bing zi</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>14</c_ganzhi_code>
+        <c_ganzhi_chn>丁丑</c_ganzhi_chn>
+        <c_ganzhi_py>ding chou</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>15</c_ganzhi_code>
+        <c_ganzhi_chn>戊寅</c_ganzhi_chn>
+        <c_ganzhi_py>wu yin</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>16</c_ganzhi_code>
+        <c_ganzhi_chn>己卯</c_ganzhi_chn>
+        <c_ganzhi_py>ji mao</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>17</c_ganzhi_code>
+        <c_ganzhi_chn>庚辰</c_ganzhi_chn>
+        <c_ganzhi_py>geng chen</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>18</c_ganzhi_code>
+        <c_ganzhi_chn>辛巳</c_ganzhi_chn>
+        <c_ganzhi_py>xin si</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>19</c_ganzhi_code>
+        <c_ganzhi_chn>壬午</c_ganzhi_chn>
+        <c_ganzhi_py>ren wu</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>20</c_ganzhi_code>
+        <c_ganzhi_chn>癸未</c_ganzhi_chn>
+        <c_ganzhi_py>gui wei</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>21</c_ganzhi_code>
+        <c_ganzhi_chn>甲申</c_ganzhi_chn>
+        <c_ganzhi_py>jia shen</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>22</c_ganzhi_code>
+        <c_ganzhi_chn>乙酉</c_ganzhi_chn>
+        <c_ganzhi_py>yi you</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>23</c_ganzhi_code>
+        <c_ganzhi_chn>丙戌</c_ganzhi_chn>
+        <c_ganzhi_py>bing xu</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>24</c_ganzhi_code>
+        <c_ganzhi_chn>丁亥</c_ganzhi_chn>
+        <c_ganzhi_py>ding hai</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>25</c_ganzhi_code>
+        <c_ganzhi_chn>戊子</c_ganzhi_chn>
+        <c_ganzhi_py>wu zi</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>26</c_ganzhi_code>
+        <c_ganzhi_chn>己丑</c_ganzhi_chn>
+        <c_ganzhi_py>ji chou</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>27</c_ganzhi_code>
+        <c_ganzhi_chn>庚寅</c_ganzhi_chn>
+        <c_ganzhi_py>geng yin</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>28</c_ganzhi_code>
+        <c_ganzhi_chn>辛卯</c_ganzhi_chn>
+        <c_ganzhi_py>xin mao</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>29</c_ganzhi_code>
+        <c_ganzhi_chn>壬辰</c_ganzhi_chn>
+        <c_ganzhi_py>ren chen</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>30</c_ganzhi_code>
+        <c_ganzhi_chn>癸巳</c_ganzhi_chn>
+        <c_ganzhi_py>gui si</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>31</c_ganzhi_code>
+        <c_ganzhi_chn>甲午</c_ganzhi_chn>
+        <c_ganzhi_py>jia wu</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>32</c_ganzhi_code>
+        <c_ganzhi_chn>乙未</c_ganzhi_chn>
+        <c_ganzhi_py>yi wei</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>33</c_ganzhi_code>
+        <c_ganzhi_chn>丙申</c_ganzhi_chn>
+        <c_ganzhi_py>bing shen</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>34</c_ganzhi_code>
+        <c_ganzhi_chn>丁酉</c_ganzhi_chn>
+        <c_ganzhi_py>ding you</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>35</c_ganzhi_code>
+        <c_ganzhi_chn>戊戌</c_ganzhi_chn>
+        <c_ganzhi_py>wu xu</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>36</c_ganzhi_code>
+        <c_ganzhi_chn>己亥</c_ganzhi_chn>
+        <c_ganzhi_py>ji hai</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>37</c_ganzhi_code>
+        <c_ganzhi_chn>庚子</c_ganzhi_chn>
+        <c_ganzhi_py>geng zi</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>38</c_ganzhi_code>
+        <c_ganzhi_chn>辛丑</c_ganzhi_chn>
+        <c_ganzhi_py>xin chou</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>39</c_ganzhi_code>
+        <c_ganzhi_chn>壬寅</c_ganzhi_chn>
+        <c_ganzhi_py>ren yin</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>40</c_ganzhi_code>
+        <c_ganzhi_chn>癸卯</c_ganzhi_chn>
+        <c_ganzhi_py>gui mao</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>41</c_ganzhi_code>
+        <c_ganzhi_chn>甲辰</c_ganzhi_chn>
+        <c_ganzhi_py>jia chen</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>42</c_ganzhi_code>
+        <c_ganzhi_chn>乙巳</c_ganzhi_chn>
+        <c_ganzhi_py>yi si</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>43</c_ganzhi_code>
+        <c_ganzhi_chn>丙午</c_ganzhi_chn>
+        <c_ganzhi_py>bing wu</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>44</c_ganzhi_code>
+        <c_ganzhi_chn>丁未</c_ganzhi_chn>
+        <c_ganzhi_py>ding wei</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>45</c_ganzhi_code>
+        <c_ganzhi_chn>戊申</c_ganzhi_chn>
+        <c_ganzhi_py>wu shen</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>46</c_ganzhi_code>
+        <c_ganzhi_chn>己酉</c_ganzhi_chn>
+        <c_ganzhi_py>ji you</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>47</c_ganzhi_code>
+        <c_ganzhi_chn>庚戌</c_ganzhi_chn>
+        <c_ganzhi_py>geng xu</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>48</c_ganzhi_code>
+        <c_ganzhi_chn>辛亥</c_ganzhi_chn>
+        <c_ganzhi_py>xin hai</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>49</c_ganzhi_code>
+        <c_ganzhi_chn>壬子</c_ganzhi_chn>
+        <c_ganzhi_py>ren zi</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>50</c_ganzhi_code>
+        <c_ganzhi_chn>癸丑</c_ganzhi_chn>
+        <c_ganzhi_py>gui chou</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>51</c_ganzhi_code>
+        <c_ganzhi_chn>甲寅</c_ganzhi_chn>
+        <c_ganzhi_py>jia yin</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>52</c_ganzhi_code>
+        <c_ganzhi_chn>乙卯</c_ganzhi_chn>
+        <c_ganzhi_py>yi mao</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>53</c_ganzhi_code>
+        <c_ganzhi_chn>丙辰</c_ganzhi_chn>
+        <c_ganzhi_py>bing chen</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>54</c_ganzhi_code>
+        <c_ganzhi_chn>丁巳</c_ganzhi_chn>
+        <c_ganzhi_py>ding si</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>55</c_ganzhi_code>
+        <c_ganzhi_chn>戊午</c_ganzhi_chn>
+        <c_ganzhi_py>wu wu</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>56</c_ganzhi_code>
+        <c_ganzhi_chn>己未</c_ganzhi_chn>
+        <c_ganzhi_py>ji wei</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>57</c_ganzhi_code>
+        <c_ganzhi_chn>庚申</c_ganzhi_chn>
+        <c_ganzhi_py>geng shen</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>58</c_ganzhi_code>
+        <c_ganzhi_chn>辛酉</c_ganzhi_chn>
+        <c_ganzhi_py>xin you</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>59</c_ganzhi_code>
+        <c_ganzhi_chn>壬戌</c_ganzhi_chn>
+        <c_ganzhi_py>ren xu</c_ganzhi_py>
+    </GANZHI_CODES>
+    <GANZHI_CODES>
+        <c_ganzhi_code>60</c_ganzhi_code>
+        <c_ganzhi_chn>癸亥</c_ganzhi_chn>
+        <c_ganzhi_py>gui hai</c_ganzhi_py>
+    </GANZHI_CODES>
+</dataroot>

@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="DYNASTIES.xsd" generated="2013-11-25T16:38:04">
+    <DYNASTIES>
+        <c_dy>0</c_dy>
+        <c_dynasty>unknown</c_dynasty>
+        <c_dynasty_chn>未詳</c_dynasty_chn>
+        <c_start>0</c_start>
+        <c_end>0</c_end>
+        <c_sort>0</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>1</c_dy>
+        <c_dynasty>Pre-Han</c_dynasty>
+        <c_dynasty_chn>漢前</c_dynasty_chn>
+        <c_start>-1100</c_start>
+        <c_end>-206</c_end>
+        <c_sort>1</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>2</c_dy>
+        <c_dynasty>QinHan</c_dynasty>
+        <c_dynasty_chn>秦漢</c_dynasty_chn>
+        <c_start>-221</c_start>
+        <c_end>220</c_end>
+        <c_sort>2</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>3</c_dy>
+        <c_dynasty>SanGuo</c_dynasty>
+        <c_dynasty_chn>三國</c_dynasty_chn>
+        <c_start>220</c_start>
+        <c_end>265</c_end>
+        <c_sort>7</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>4</c_dy>
+        <c_dynasty>NanBei Chao</c_dynasty>
+        <c_dynasty_chn>南北朝</c_dynasty_chn>
+        <c_start>420</c_start>
+        <c_end>589</c_end>
+        <c_sort>13</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>5</c_dy>
+        <c_dynasty>Sui</c_dynasty>
+        <c_dynasty_chn>隋</c_dynasty_chn>
+        <c_start>581</c_start>
+        <c_end>618</c_end>
+        <c_sort>41</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>6</c_dy>
+        <c_dynasty>Tang</c_dynasty>
+        <c_dynasty_chn>唐</c_dynasty_chn>
+        <c_start>618</c_start>
+        <c_end>907</c_end>
+        <c_sort>42</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>7</c_dy>
+        <c_dynasty>Five Dynasties</c_dynasty>
+        <c_dynasty_chn>五代</c_dynasty_chn>
+        <c_start>907</c_start>
+        <c_end>960</c_end>
+        <c_sort>44</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>8</c_dy>
+        <c_dynasty>Later Shu (10 states)</c_dynasty>
+        <c_dynasty_chn>後蜀</c_dynasty_chn>
+        <c_start>933</c_start>
+        <c_end>965</c_end>
+        <c_sort>52</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>9</c_dy>
+        <c_dynasty>Wu</c_dynasty>
+        <c_dynasty_chn>吳</c_dynasty_chn>
+        <c_start>904</c_start>
+        <c_end>937</c_end>
+        <c_sort>77</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>10</c_dy>
+        <c_dynasty>Southern Tang (10 states)</c_dynasty>
+        <c_dynasty_chn>南唐</c_dynasty_chn>
+        <c_start>937</c_start>
+        <c_end>975</c_end>
+        <c_sort>58</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>11</c_dy>
+        <c_dynasty>WuYue (10 states)</c_dynasty>
+        <c_dynasty_chn>吳越</c_dynasty_chn>
+        <c_start>907</c_start>
+        <c_end>978</c_end>
+        <c_sort>53</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>12</c_dy>
+        <c_dynasty>Min (10 states)</c_dynasty>
+        <c_dynasty_chn>閩國</c_dynasty_chn>
+        <c_start>909</c_start>
+        <c_end>945</c_end>
+        <c_sort>55</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>13</c_dy>
+        <c_dynasty>Southern Han (10 states)</c_dynasty>
+        <c_dynasty_chn>南漢</c_dynasty_chn>
+        <c_start>917</c_start>
+        <c_end>971</c_end>
+        <c_sort>56</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>14</c_dy>
+        <c_dynasty>Koryo</c_dynasty>
+        <c_dynasty_chn>高麗</c_dynasty_chn>
+        <c_start>0</c_start>
+        <c_end>0</c_end>
+        <c_sort>74</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>15</c_dy>
+        <c_dynasty>Song</c_dynasty>
+        <c_dynasty_chn>宋</c_dynasty_chn>
+        <c_start>960</c_start>
+        <c_end>1279</c_end>
+        <c_sort>61</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>16</c_dy>
+        <c_dynasty>Liao</c_dynasty>
+        <c_dynasty_chn>遼</c_dynasty_chn>
+        <c_start>947</c_start>
+        <c_end>1115</c_end>
+        <c_sort>60</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>17</c_dy>
+        <c_dynasty>Jin</c_dynasty>
+        <c_dynasty_chn>金</c_dynasty_chn>
+        <c_start>1115</c_start>
+        <c_end>1234</c_end>
+        <c_sort>63</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>18</c_dy>
+        <c_dynasty>Yuan</c_dynasty>
+        <c_dynasty_chn>元</c_dynasty_chn>
+        <c_start>1234</c_start>
+        <c_end>1367</c_end>
+        <c_sort>66</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>19</c_dy>
+        <c_dynasty>Ming</c_dynasty>
+        <c_dynasty_chn>明</c_dynasty_chn>
+        <c_start>1368</c_start>
+        <c_end>1644</c_end>
+        <c_sort>68</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>20</c_dy>
+        <c_dynasty>Qing</c_dynasty>
+        <c_dynasty_chn>清</c_dynasty_chn>
+        <c_start>1644</c_start>
+        <c_end>1911</c_end>
+        <c_sort>69</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>21</c_dy>
+        <c_dynasty>Republic of China</c_dynasty>
+        <c_dynasty_chn>中華民國</c_dynasty_chn>
+        <c_start>1912</c_start>
+        <c_end>3000</c_end>
+        <c_sort>70</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>22</c_dy>
+        <c_dynasty>People's Republic of China</c_dynasty>
+        <c_dynasty_chn>中華人民共和國</c_dynasty_chn>
+        <c_start>1949</c_start>
+        <c_end>3000</c_end>
+        <c_sort>71</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>23</c_dy>
+        <c_dynasty>Western Jin</c_dynasty>
+        <c_dynasty_chn>西晉</c_dynasty_chn>
+        <c_start>265</c_start>
+        <c_end>316</c_end>
+        <c_sort>11</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>24</c_dy>
+        <c_dynasty>Chen</c_dynasty>
+        <c_dynasty_chn>陳</c_dynasty_chn>
+        <c_start>557</c_start>
+        <c_end>589</c_end>
+        <c_sort>17</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>25</c_dy>
+        <c_dynasty>Eastern Han</c_dynasty>
+        <c_dynasty_chn>東漢</c_dynasty_chn>
+        <c_start>25</c_start>
+        <c_end>220</c_end>
+        <c_sort>6</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>26</c_dy>
+        <c_dynasty>SanGuo Wei</c_dynasty>
+        <c_dynasty_chn>三國魏</c_dynasty_chn>
+        <c_start>220</c_start>
+        <c_end>265</c_end>
+        <c_sort>8</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>27</c_dy>
+        <c_dynasty>Eastern Jin</c_dynasty>
+        <c_dynasty_chn>東晉</c_dynasty_chn>
+        <c_start>317</c_start>
+        <c_end>419</c_end>
+        <c_sort>12</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>28</c_dy>
+        <c_dynasty>Song (Liu)</c_dynasty>
+        <c_dynasty_chn>宋(劉)</c_dynasty_chn>
+        <c_start>420</c_start>
+        <c_end>479</c_end>
+        <c_sort>14</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>29</c_dy>
+        <c_dynasty>Western Han</c_dynasty>
+        <c_dynasty_chn>西漢</c_dynasty_chn>
+        <c_start>-206</c_start>
+        <c_end>9</c_end>
+        <c_sort>4</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>30</c_dy>
+        <c_dynasty>Northern Wei</c_dynasty>
+        <c_dynasty_chn>北魏</c_dynasty_chn>
+        <c_start>386</c_start>
+        <c_end>534</c_end>
+        <c_sort>18</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>31</c_dy>
+        <c_dynasty>Northern Zhou</c_dynasty>
+        <c_dynasty_chn>北周</c_dynasty_chn>
+        <c_start>557</c_start>
+        <c_end>581</c_end>
+        <c_sort>22</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>32</c_dy>
+        <c_dynasty>Southern Qi</c_dynasty>
+        <c_dynasty_chn>南齌</c_dynasty_chn>
+        <c_start>479</c_start>
+        <c_end>502</c_end>
+        <c_sort>15</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>34</c_dy>
+        <c_dynasty>Later Liang (5 dynasties)</c_dynasty>
+        <c_dynasty_chn>後梁</c_dynasty_chn>
+        <c_start>907</c_start>
+        <c_end>923</c_end>
+        <c_sort>45</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>35</c_dy>
+        <c_dynasty>Northern Qi</c_dynasty>
+        <c_dynasty_chn>北齊</c_dynasty_chn>
+        <c_start>550</c_start>
+        <c_end>578</c_end>
+        <c_sort>21</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>36</c_dy>
+        <c_dynasty>Wu (Yang: 10 states)</c_dynasty>
+        <c_dynasty_chn>吳(楊)</c_dynasty_chn>
+        <c_start>904</c_start>
+        <c_end>937</c_end>
+        <c_sort>50</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>37</c_dy>
+        <c_dynasty>Minor Liang</c_dynasty>
+        <c_start>0</c_start>
+        <c_end>0</c_end>
+        <c_sort>75</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>38</c_dy>
+        <c_dynasty>Chu (Ma:10 states)</c_dynasty>
+        <c_dynasty_chn>楚(馬)</c_dynasty_chn>
+        <c_start>907</c_start>
+        <c_end>951</c_end>
+        <c_sort>54</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>39</c_dy>
+        <c_dynasty>Former Yan (16 states)</c_dynasty>
+        <c_dynasty_chn>前燕</c_dynasty_chn>
+        <c_start>337</c_start>
+        <c_end>370</c_end>
+        <c_sort>28</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>40</c_dy>
+        <c_dynasty>Western Wei</c_dynasty>
+        <c_dynasty_chn>西魏</c_dynasty_chn>
+        <c_start>535</c_start>
+        <c_end>557</c_end>
+        <c_sort>20</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>41</c_dy>
+        <c_dynasty>Eastern Wei</c_dynasty>
+        <c_dynasty_chn>東魏</c_dynasty_chn>
+        <c_start>534</c_start>
+        <c_end>550</c_end>
+        <c_sort>19</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>42</c_dy>
+        <c_dynasty>SanGuo Wu</c_dynasty>
+        <c_dynasty_chn>三國吳</c_dynasty_chn>
+        <c_start>222</c_start>
+        <c_end>280</c_end>
+        <c_sort>10</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>43</c_dy>
+        <c_dynasty>Qin</c_dynasty>
+        <c_dynasty_chn>秦</c_dynasty_chn>
+        <c_start>0</c_start>
+        <c_end>0</c_end>
+        <c_sort>76</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>44</c_dy>
+        <c_dynasty>Southern Liang</c_dynasty>
+        <c_dynasty_chn>南梁</c_dynasty_chn>
+        <c_start>502</c_start>
+        <c_end>557</c_end>
+        <c_sort>16</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>45</c_dy>
+        <c_dynasty>Later Qin (16 states)</c_dynasty>
+        <c_dynasty_chn>後秦</c_dynasty_chn>
+        <c_start>384</c_start>
+        <c_end>417</c_end>
+        <c_sort>30</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>46</c_dy>
+        <c_dynasty>Xin (Wang Mang)</c_dynasty>
+        <c_dynasty_chn>新</c_dynasty_chn>
+        <c_start>9</c_start>
+        <c_end>25</c_end>
+        <c_sort>5</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>47</c_dy>
+        <c_dynasty>Later Tang (5 dynasties)</c_dynasty>
+        <c_dynasty_chn>後唐</c_dynasty_chn>
+        <c_start>923</c_start>
+        <c_end>936</c_end>
+        <c_sort>46</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>48</c_dy>
+        <c_dynasty>Later Jin (5 dynasties)</c_dynasty>
+        <c_dynasty_chn>後晉</c_dynasty_chn>
+        <c_start>936</c_start>
+        <c_end>947</c_end>
+        <c_sort>47</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>49</c_dy>
+        <c_dynasty>Later Zhou (5 dynasties)</c_dynasty>
+        <c_dynasty_chn>後周</c_dynasty_chn>
+        <c_start>951</c_start>
+        <c_end>960</c_end>
+        <c_sort>49</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>50</c_dy>
+        <c_dynasty>Southern Yan (16 states)</c_dynasty>
+        <c_dynasty_chn>南燕</c_dynasty_chn>
+        <c_start>398</c_start>
+        <c_end>410</c_end>
+        <c_sort>36</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>51</c_dy>
+        <c_dynasty>Former Liang (16 states)</c_dynasty>
+        <c_dynasty_chn>前涼</c_dynasty_chn>
+        <c_start>317</c_start>
+        <c_end>376</c_end>
+        <c_sort>26</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>52</c_dy>
+        <c_dynasty>Later Han (5 dynasties)</c_dynasty>
+        <c_dynasty_chn>後漢</c_dynasty_chn>
+        <c_start>947</c_start>
+        <c_end>951</c_end>
+        <c_sort>48</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>53</c_dy>
+        <c_dynasty>SanGuo Shu</c_dynasty>
+        <c_dynasty_chn>三國蜀</c_dynasty_chn>
+        <c_start>221</c_start>
+        <c_end>263</c_end>
+        <c_sort>9</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>55</c_dy>
+        <c_dynasty>Nanping (10 states)</c_dynasty>
+        <c_dynasty_chn>南平</c_dynasty_chn>
+        <c_start>924</c_start>
+        <c_end>963</c_end>
+        <c_sort>57</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>56</c_dy>
+        <c_dynasty>Western Liang (16 states)</c_dynasty>
+        <c_dynasty_chn>西涼</c_dynasty_chn>
+        <c_start>400</c_start>
+        <c_end>421</c_end>
+        <c_sort>37</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>57</c_dy>
+        <c_dynasty>Qi (Wei Qi)</c_dynasty>
+        <c_dynasty_chn>偽齊</c_dynasty_chn>
+        <c_start>1130</c_start>
+        <c_end>1137</c_end>
+        <c_sort>64</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>58</c_dy>
+        <c_dynasty>Korea</c_dynasty>
+        <c_dynasty_chn>高麗</c_dynasty_chn>
+        <c_start>0</c_start>
+        <c_end>0</c_end>
+        <c_sort>73</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>59</c_dy>
+        <c_dynasty>Qara-Khitay</c_dynasty>
+        <c_dynasty_chn>西遼</c_dynasty_chn>
+        <c_start>1132</c_start>
+        <c_end>1218</c_end>
+        <c_sort>65</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>60</c_dy>
+        <c_dynasty>Northern Yan (16 states)</c_dynasty>
+        <c_dynasty_chn>北燕</c_dynasty_chn>
+        <c_start>407</c_start>
+        <c_end>436</c_end>
+        <c_sort>39</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>61</c_dy>
+        <c_dynasty>Ying Qin</c_dynasty>
+        <c_dynasty_chn>贏秦</c_dynasty_chn>
+        <c_start>-221</c_start>
+        <c_end>-206</c_end>
+        <c_sort>3</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>62</c_dy>
+        <c_dynasty>Northern Liang (16 states</c_dynasty>
+        <c_dynasty_chn>北涼</c_dynasty_chn>
+        <c_start>401</c_start>
+        <c_end>439</c_end>
+        <c_sort>38</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>63</c_dy>
+        <c_dynasty>Later Yan (16 states)</c_dynasty>
+        <c_dynasty_chn>後燕</c_dynasty_chn>
+        <c_start>384</c_start>
+        <c_end>407</c_end>
+        <c_sort>32</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>64</c_dy>
+        <c_dynasty>Later Zhao (16 states)</c_dynasty>
+        <c_dynasty_chn>後趙</c_dynasty_chn>
+        <c_start>319</c_start>
+        <c_end>351</c_end>
+        <c_sort>27</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>65</c_dy>
+        <c_dynasty>Former Qin (16 states)</c_dynasty>
+        <c_dynasty_chn>前秦</c_dynasty_chn>
+        <c_start>350</c_start>
+        <c_end>394</c_end>
+        <c_sort>29</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>66</c_dy>
+        <c_dynasty>Northern Han (10 states)</c_dynasty>
+        <c_dynasty_chn>北漢</c_dynasty_chn>
+        <c_start>951</c_start>
+        <c_end>979</c_end>
+        <c_sort>59</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>67</c_dy>
+        <c_dynasty>Xinluo (Korea)</c_dynasty>
+        <c_dynasty_chn>新羅</c_dynasty_chn>
+        <c_start>0</c_start>
+        <c_end>0</c_end>
+        <c_sort>72</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>68</c_dy>
+        <c_dynasty>Later Liang (North. Dy)</c_dynasty>
+        <c_dynasty_chn>後梁</c_dynasty_chn>
+        <c_start>555</c_start>
+        <c_end>587</c_end>
+        <c_sort>23</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>69</c_dy>
+        <c_dynasty>Former Zhao (16 states)</c_dynasty>
+        <c_dynasty_chn>前趙</c_dynasty_chn>
+        <c_start>304</c_start>
+        <c_end>329</c_end>
+        <c_sort>24</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>70</c_dy>
+        <c_dynasty>Cheng Han (16 states)</c_dynasty>
+        <c_dynasty_chn>成漢</c_dynasty_chn>
+        <c_start>304</c_start>
+        <c_end>347</c_end>
+        <c_sort>25</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>71</c_dy>
+        <c_dynasty>Xia (16 states)</c_dynasty>
+        <c_dynasty_chn>夏</c_dynasty_chn>
+        <c_start>407</c_start>
+        <c_end>431</c_end>
+        <c_sort>40</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>72</c_dy>
+        <c_dynasty>Western Qin (16 states)</c_dynasty>
+        <c_dynasty_chn>西秦</c_dynasty_chn>
+        <c_start>385</c_start>
+        <c_end>431</c_end>
+        <c_sort>33</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>73</c_dy>
+        <c_dynasty>Later Liang (16 states)</c_dynasty>
+        <c_dynasty_chn>後涼</c_dynasty_chn>
+        <c_start>386</c_start>
+        <c_end>403</c_end>
+        <c_sort>34</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>74</c_dy>
+        <c_dynasty>Southern Liang (16 states)</c_dynasty>
+        <c_dynasty_chn>南涼</c_dynasty_chn>
+        <c_start>397</c_start>
+        <c_end>414</c_end>
+        <c_sort>35</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>75</c_dy>
+        <c_dynasty>Former Shu (10 states)</c_dynasty>
+        <c_dynasty_chn>前蜀</c_dynasty_chn>
+        <c_start>903</c_start>
+        <c_end>925</c_end>
+        <c_sort>51</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>76</c_dy>
+        <c_dynasty>Western Yan (16 states)</c_dynasty>
+        <c_dynasty_chn>西燕</c_dynasty_chn>
+        <c_start>384</c_start>
+        <c_end>394</c_end>
+        <c_sort>31</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>77</c_dy>
+        <c_dynasty>Zhou (Wu Zetian)</c_dynasty>
+        <c_dynasty_chn>周</c_dynasty_chn>
+        <c_start>684</c_start>
+        <c_end>705</c_end>
+        <c_sort>43</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>78</c_dy>
+        <c_dynasty>Western Xia</c_dynasty>
+        <c_dynasty_chn>西夏</c_dynasty_chn>
+        <c_start>1032</c_start>
+        <c_end>1227</c_end>
+        <c_sort>62</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>79</c_dy>
+        <c_dynasty>Northern Yuan</c_dynasty>
+        <c_dynasty_chn>北元</c_dynasty_chn>
+        <c_start>1371</c_start>
+        <c_end>1387</c_end>
+        <c_sort>67</c_sort>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>80</c_dy>
+        <c_dynasty>Soutthern Ming</c_dynasty>
+        <c_dynasty_chn>南明</c_dynasty_chn>
+        <c_start>1644</c_start>
+        <c_end>1661</c_end>
+    </DYNASTIES>
+    <DYNASTIES>
+        <c_dy>81</c_dy>
+        <c_dynasty>Zheng (Wang Shichong)</c_dynasty>
+        <c_dynasty_chn>鄭（王世充）</c_dynasty_chn>
+        <c_start>619</c_start>
+        <c_end>621</c_end>
+    </DYNASTIES>
+</dataroot>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="dataroot">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="GANZHI_CODES" minOccurs="0" maxOccurs="unbounded"/>
+            </xsd:sequence>
+            <xsd:attribute name="generated" type="xsd:dateTime"/>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:element name="GANZHI_CODES">
+        <xsd:annotation>
+            <xsd:appinfo>
+                <od:index index-name="c_ganzhi_code" index-key="c_ganzhi_code " primary="no" unique="no" clustered="no" order="asc"/>
+                <od:index index-name="PrimaryKey" index-key="c_ganzhi_code " primary="yes" unique="yes" clustered="no" order="asc"/>
+                <od:tableProperty name="Orientation" type="2" value="0"/>
+                <od:tableProperty name="OrderByOn" type="1" value="0"/>
+                <od:tableProperty name="NameMap" type="11" value="CswOVQAAAACqGR9sYCi1Q5mZQM0lv7uTAAAAAGn08x1ieuNAAACUAAEAAABHAEEA TgBaAEgASQBfAEMATwBEAEUAUwAAAAAAAACJdzhkvfz8T7i/IjZvhUwsBwAAAKoZ H2xgKLVDmZlAzSW/u5NjAF8AZwBhAG4AegBoAGkAXwBjAG8AZABlAAAAAAAAALUX O0NxkAZElyeSINrGB7gHAAAAqhkfbGAotUOZmUDNJb+7k2MAXwBnAGEAbgB6AGgA aQBfAGMAaABuAAAAAAAAABlqfAYiKwZJsei0j1t2ifsHAAAAqhkfbGAotUOZmUDN Jb+7k2MAXwBnAGEAbgB6AGgAaQBfAHAAeQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA DAAAAAMAAAAAAAAAAAAAAAAAAAAAAA== "/>
+                <od:tableProperty name="DefaultView" type="2" value="2"/>
+                <od:tableProperty name="GUID" type="9" value="qhkfbGAotUOZmUDNJb+7kw== "/>
+            </xsd:appinfo>
+        </xsd:annotation>
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="c_ganzhi_code" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int">
+                    <xsd:annotation>
+                        <xsd:appinfo>
+                            <od:fieldProperty name="ColumnWidth" type="3" value="-1"/>
+                            <od:fieldProperty name="ColumnOrder" type="3" value="0"/>
+                            <od:fieldProperty name="ColumnHidden" type="1" value="0"/>
+                            <od:fieldProperty name="DecimalPlaces" type="2" value="255"/>
+                            <od:fieldProperty name="DefaultValue" type="12" value="0"/>
+                            <od:fieldProperty name="Required" type="1" value="0"/>
+                            <od:fieldProperty name="DisplayControl" type="3" value="109"/>
+                            <od:fieldProperty name="GUID" type="9" value="iXc4ZL38/E+4vyI2b4VMLA== "/>
+                        </xsd:appinfo>
+                    </xsd:annotation>
+                </xsd:element>
+                <xsd:element name="c_ganzhi_chn" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+                    <xsd:annotation>
+                        <xsd:appinfo>
+                            <od:fieldProperty name="ColumnWidth" type="3" value="-1"/>
+                            <od:fieldProperty name="ColumnOrder" type="3" value="0"/>
+                            <od:fieldProperty name="ColumnHidden" type="1" value="0"/>
+                            <od:fieldProperty name="Required" type="1" value="0"/>
+                            <od:fieldProperty name="AllowZeroLength" type="1" value="1"/>
+                            <od:fieldProperty name="DisplayControl" type="3" value="109"/>
+                            <od:fieldProperty name="IMEMode" type="2" value="1"/>
+                            <od:fieldProperty name="IMESentenceMode" type="2" value="3"/>
+                            <od:fieldProperty name="UnicodeCompression" type="1" value="1"/>
+                            <od:fieldProperty name="GUID" type="9" value="tRc7Q3GQBkSXJ5Ig2sYHuA== "/>
+                        </xsd:appinfo>
+                    </xsd:annotation>
+                    <xsd:simpleType>
+                        <xsd:restriction base="xsd:string">
+                            <xsd:maxLength value="50"/>
+                        </xsd:restriction>
+                    </xsd:simpleType>
+                </xsd:element>
+                <xsd:element name="c_ganzhi_py" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+                    <xsd:annotation>
+                        <xsd:appinfo>
+                            <od:fieldProperty name="ColumnWidth" type="3" value="-1"/>
+                            <od:fieldProperty name="ColumnOrder" type="3" value="0"/>
+                            <od:fieldProperty name="ColumnHidden" type="1" value="0"/>
+                            <od:fieldProperty name="Required" type="1" value="0"/>
+                            <od:fieldProperty name="AllowZeroLength" type="1" value="1"/>
+                            <od:fieldProperty name="DisplayControl" type="3" value="109"/>
+                            <od:fieldProperty name="IMEMode" type="2" value="1"/>
+                            <od:fieldProperty name="IMESentenceMode" type="2" value="3"/>
+                            <od:fieldProperty name="UnicodeCompression" type="1" value="1"/>
+                            <od:fieldProperty name="GUID" type="9" value="GWp8BiIrBkmx6LSPW3aJ+w== "/>
+                        </xsd:appinfo>
+                    </xsd:annotation>
+                    <xsd:simpleType>
+                        <xsd:restriction base="xsd:string">
+                            <xsd:maxLength value="50"/>
+                        </xsd:restriction>
+                    </xsd:simpleType>
+                </xsd:element>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>
