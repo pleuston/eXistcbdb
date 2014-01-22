@@ -104,25 +104,27 @@ typeswitch ($n)
   
   (: These  elements can meet their maker once the extraction from cdbd is concluded. In the meantime lets keep them to be on the safe side 
 
-    case element (tts_sysno) delete 
-    case element (c_death_age) delete 
-    case element (c_death_age_approx) delete 
-    case element (c_source) delete 
-    case element (c_pages) delete 
-    case element (c_by_intercalary) delete 
-    case element (c_dy_intercalary) delete 
-    case element (c_pages) delete 
-    case element (c_created_by) delete
-    case element (c_created_date) delete
-    case element (c_modified_by) delete
-    case element (c_modified_date) delete
-    case element (c_self_bio) delete :)
+    case element (tts_sysno) return update delete $tts_sysno
+    case element (c_death_age)  return update delete $c_death_age
+    case element (c_death_age_approx)  return update delete $c_death_age_approx
+    case element (c_source) return update delete $c_source
+    case element (c_pages)  return update delete $c_pages
+    case element (c_by_intercalary)  return update delete $c_by_intercalary
+    case element (c_dy_intercalary)  return update delete $c_dy_intercalary
+    case element (c_pages)  return update delete $c_pages
+    case element (c_created_by)  return update delete $c_created_by
+    case element (c_created_date)  return update delete $c_created_date
+    case element (c_modified_by)  return update delete $c_modified_by
+    case element (c_modified_date)  return update delete $c_modified_date
+    case element (c_self_bio)  return update delete $c_self_bio :)
 
 (: Finally! ADD these elements to each record: CBDBLINK is still pseudocode 
-  <CBDBLink>'http://cbdb.fas.harvard.edu/cbdbapi/person.php?id=', c_personid()</CBDBLink>  
+  <CBDBLink>'http://cbdb.fas.harvard.edu/cbdbapi/person.php?id=', {c_personid()}</CBDBLink>  
   <datasource>20131008CBDBaq</datasource>
-  <created>timestamp</created>
-  <creator>'Not the HRA'</creator> 
+  <created>{fn:format-dateTime}</created>
+  <creator>'Not the HRA'</creator> :)
+  
+  (:I would like these to be more specific, as in which attribute has been changed by whom, how? no clue if and how this would be possible though....jsut food for thought 
   <lastmodified>timestamp</lastmodified>
   <modifiedby>username</modifiedby>:)
 
