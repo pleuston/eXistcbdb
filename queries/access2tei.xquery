@@ -28,16 +28,16 @@ typeswitch ($n)
   
   (: western dates from BIOG_MAIN table come here :)
   (: I'm thinking my google docs suggestion works better then the WSC way of doing birthdates can we lump together year-month-day into a single statement?) :)
-  case element (c_birthyear) return <birth><date>{local:transform($n/node())}</date></birth>
-  case element (c_by_month) return <birth when="yyy-{local:transform($n/node())}-dd" />
-  case element (c_by_day) return <birth when="yyy-mm-{local:transform($n/node())}" />
-  case element (c_deathyear) return <death><date>{local:transform($n/node())}</date></death>
-  case element (c_dy_month) return <death when="yyy-{local:transform($n/node())}-dd" />
-  case element (c_dy_day) return <death when="yyy-mm-{local:transform($n/node())}" />
+  case element (c_birthyear) return <birth><date><year>{local:transform($n/node())}</year></date></birth>
+  case element (c_by_month) return <birth><date><month>{local:transform($n/node())}</month></date></birth>
+  case element (c_by_day) return <birth><date><day>{local:transform($n/node())}</day></date></birth>
+  case element (c_deathyear) return <death><date><year>{local:transform($n/node())}</year></date></death>
+  case element (c_dy_month) return <death><date><month>{local:transform($n/node())}</month></date><death>
+  case element (c_dy_day) return <death><date><day>{local:transform($n/node())}</day></date></death>
   case element (c_fl_earliest_year) return <floruit notBefore="{local:transform($n/node())}" />
   case element (c_fl_latest_year) return <floruit notAfter="{local:transform($n/node())}" />
   (: check tei on index year type thingy :)
-  case element (c_index_year) return <date>{local:transform($n/node())}</date>
+  case element (c_index_year) return <date><year>{local:transform($n/node())}</year></date>
   
   
   (: nianhao funk starts here go go david!! :)
